@@ -74,7 +74,7 @@ while is_working:
     pressed_keys = pygame.key.get_pressed()
 
     # main_surface.fill(WHITE)
-
+    
     # main_surface.blit(bg, (0, 0))
 
     bgX -= bg_speed
